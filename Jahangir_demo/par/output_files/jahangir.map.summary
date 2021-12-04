@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Sat Dec 04 23:31:30 2021
+Quartus II 64-Bit Version : 13.1.0 Build 162 10/23/2013 SJ Full Version
+Revision Name : jahangir
+Top-level Entity Name : jahangir
+Family : Cyclone IV E
+Total logic elements : 31
+    Total combinational functions : 30
+    Dedicated logic registers : 31
+Total registers : 31
+Total pins : 67
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
