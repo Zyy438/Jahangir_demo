@@ -4,7 +4,7 @@ design requirement:
 gcc suport  
 uc/os  
 resources minimized(alu resources reuse)  
-================================================  
+
 start date: 1st Dec 2021
 will update soon
 
