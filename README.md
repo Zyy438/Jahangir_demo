@@ -1,5 +1,10 @@
 # Jahangir_demo
 a processor utilizing MIPS32 instruction set, can be mounted on FPGA chips as a soft core processor  
+design requirement:  
+gcc suport  
+uc/os  
+resources minimized(alu resources reuse)  
+================================================  
 start date: 1st Dec 2021
 will update soon
 
