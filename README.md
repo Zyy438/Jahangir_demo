@@ -16,3 +16,8 @@ first stage and second stage completed
 ==4th Nov updated==  
 assembly instruction partially supported  
 v0.1 uploaded
+
+
+==5th Nov updated==  
+bug fixed  
+rtl simulation verified
