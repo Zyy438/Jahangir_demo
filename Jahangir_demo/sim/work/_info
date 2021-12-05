@@ -1,0 +1,252 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\quartus\altera\13.1\modelsim_ase\win32aloem
+vex
+Z1 !s100 VMh1f=;OA88Ia5een72jX1
+Z2 I`R:[G@CSfSVgI9>D5[nfa2
+Z3 V_aiFGH1Jk]hMU15m]T1Wh3
+Z4 dC:\Users\Administrator\Desktop\Jahangir_demo\sim
+Z5 w1638552266
+Z6 8C:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage3/ex.v
+Z7 FC:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage3/ex.v
+L0 6
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage3/ex.v|
+Z10 o-work work -O0
+Z11 !s108 1638712814.518000
+Z12 !s107 C:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage3/ex.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vexmem
+Z13 !s100 aU1:PDZ83FRjb[G1`X3_@0
+Z14 I<GhJF]`:Ni1zL=I8@BG=22
+Z15 VZYoU^h:eGZG>=z;hOl_@<1
+R4
+Z16 w1638551852
+Z17 8C:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage3/exmem.v
+Z18 FC:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage3/exmem.v
+L0 7
+R8
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|C:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage3/exmem.v|
+R10
+Z20 !s108 1638712814.659000
+Z21 !s107 C:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage3/exmem.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vid
+Z22 !s100 _:3e?45@SFo@MFSM53a^Y2
+Z23 ITK`IA>j^gQiczf63><4U;1
+Z24 VLP=:m`UMgBFYDSNeaaMZg2
+R4
+Z25 w1638712564
+Z26 8C:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage2/id.v
+Z27 FC:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage2/id.v
+L0 8
+R8
+r1
+31
+Z28 !s90 -reportprogress|300|-work|work|C:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage2/id.v|
+R10
+Z29 !s108 1638712814.162000
+Z30 !s107 C:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage2/id.v|
+!i10b 1
+!s85 0
+!s101 -O0
+videx
+Z31 !s100 z9ZLzTj=TW;`in1`5E`Hn2
+Z32 I]Le7eoMQJzV^HhPln85401
+Z33 V2VFDQQQ:;R<?h2ZcD9?@<2
+R4
+Z34 w1638551896
+Z35 8C:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage2/idex.v
+Z36 FC:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage2/idex.v
+L0 7
+R8
+r1
+31
+Z37 !s90 -reportprogress|300|-work|work|C:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage2/idex.v|
+R10
+Z38 !s108 1638712814.279000
+Z39 !s107 C:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage2/idex.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vifid
+Z40 !s100 nca5a<dTAIeT60]aP8j_30
+Z41 IMO9TOAYff`f@achC>XLa<0
+Z42 V::4ZSQ=MC8L9miYNFBF]i2
+R4
+Z43 w1638437083
+Z44 8C:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage1/ifid.v
+Z45 FC:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage1/ifid.v
+L0 9
+R8
+r1
+31
+Z46 !s90 -reportprogress|300|-work|work|C:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage1/ifid.v|
+R10
+Z47 !s108 1638712813.685000
+Z48 !s107 C:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage1/ifid.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vjahangir
+Z49 !s100 6AQUAndV9cP[^`0dKG4_F3
+Z50 I6]NIEgnGN`T]=n[c_VjJi3
+Z51 VXL_aF7ll`c5YMkAaG8lZ`2
+R4
+Z52 w1638631401
+Z53 8C:/Users/Administrator/Desktop/Jahangir_demo/rtl/top_level/jahangir.v
+Z54 FC:/Users/Administrator/Desktop/Jahangir_demo/rtl/top_level/jahangir.v
+L0 10
+R8
+r1
+31
+Z55 !s90 -reportprogress|300|-work|work|C:/Users/Administrator/Desktop/Jahangir_demo/rtl/top_level/jahangir.v|
+R10
+Z56 !s108 1638712815.090000
+Z57 !s107 C:/Users/Administrator/Desktop/Jahangir_demo/rtl/top_level/jahangir.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmem
+Z58 !s100 MQi7kBCXBOJ[cCnBh?J203
+Z59 IT]1F;UKD^Pb4[zLIZGF?O2
+Z60 VTX:dkFM1RBEcTC^A@bm=Y1
+R4
+Z61 w1638553184
+Z62 8C:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage4/mem.v
+Z63 FC:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage4/mem.v
+L0 6
+R8
+r1
+31
+Z64 !s90 -reportprogress|300|-work|work|C:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage4/mem.v|
+R10
+Z65 !s108 1638712814.835000
+Z66 !s107 C:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage4/mem.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmemwb
+Z67 !s100 nzzRX[NUeM0>OcnfC<NX03
+Z68 I[oVGkal0I[D3n23Odn2f90
+Z69 VD]VVZ7A44<D==CV=AXmmX2
+R4
+Z70 w1638553300
+Z71 8C:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage4/memwb.v
+Z72 FC:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage4/memwb.v
+L0 6
+R8
+r1
+31
+Z73 !s90 -reportprogress|300|-work|work|C:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage4/memwb.v|
+R10
+Z74 !s108 1638712814.953000
+Z75 !s107 C:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage4/memwb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vpc
+Z76 !s100 PM5lYe39aDAP4O6g^A?W_1
+Z77 IdECU901M9Xld1SK0cYo];0
+Z78 VzVJMLE<@z2Ki:hCgNlgNH0
+R4
+Z79 w1638428718
+Z80 8C:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage1/pc.v
+Z81 FC:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage1/pc.v
+L0 6
+R8
+r1
+31
+Z82 !s90 -reportprogress|300|-work|work|C:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage1/pc.v|
+R10
+Z83 !s108 1638712814.043000
+Z84 !s107 C:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage1/pc.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vregfile
+Z85 IPi^<aK7A=<PV52<V;2`ME1
+Z86 V`VbaQd=>?gGI=f]Q:zVI?2
+R4
+Z87 w1638712806
+Z88 8C:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage2/regfile.v
+Z89 FC:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage2/regfile.v
+L0 9
+R8
+r1
+31
+Z90 !s90 -reportprogress|300|-work|work|C:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage2/regfile.v|
+R10
+Z91 !s100 m]j5dG>HV9VKFQMaz631i1
+Z92 !s108 1638712814.406000
+Z93 !s107 C:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage2/regfile.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vrom
+Z94 !s100 :3:EFS4^9Q`z_6oP6XRg13
+Z95 ImI4=EDbOm_4PzOa91AS2N2
+Z96 VbJe>NmPCck6gUPO0Ob7B@2
+R4
+Z97 w1638707031
+Z98 8C:/Users/Administrator/Desktop/Jahangir_demo/rtl/rom/rom.v
+Z99 FC:/Users/Administrator/Desktop/Jahangir_demo/rtl/rom/rom.v
+L0 7
+R8
+r1
+31
+Z100 !s90 -reportprogress|300|-work|work|C:/Users/Administrator/Desktop/Jahangir_demo/rtl/rom/rom.v|
+R10
+Z101 !s108 1638712813.582000
+Z102 !s107 C:/Users/Administrator/Desktop/Jahangir_demo/rtl/rom/rom.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsoc
+Z103 !s100 0ViDd_ViOS5boPBhoNTCV0
+Z104 I6]RP0;7KVf3ZT3LKX4c1a2
+Z105 V4lhDM2:YH<F`KNJ<Sk@6e1
+R4
+Z106 w1638708631
+Z107 8C:/Users/Administrator/Desktop/Jahangir_demo/sim/soc.v
+Z108 FC:/Users/Administrator/Desktop/Jahangir_demo/sim/soc.v
+L0 1
+R8
+r1
+31
+Z109 !s90 -reportprogress|300|-work|work|C:/Users/Administrator/Desktop/Jahangir_demo/sim/soc.v|
+R10
+!i10b 1
+!s85 0
+Z110 !s108 1638712815.228000
+Z111 !s107 C:/Users/Administrator/Desktop/Jahangir_demo/sim/soc.v|
+!s101 -O0
+vsoc_tb
+!i10b 1
+Z112 !s100 >c:WBIiQJ>7EXRjW?GGAj3
+Z113 Ifk[0?Mkk4OOklSEL9^JL12
+Z114 VHMJU]UVULSnMLehV55U7^1
+R4
+Z115 w1638709661
+Z116 8C:/Users/Administrator/Desktop/Jahangir_demo/sim/soc_tb.v
+Z117 FC:/Users/Administrator/Desktop/Jahangir_demo/sim/soc_tb.v
+L0 2
+R8
+r1
+!s85 0
+31
+!s108 1638712815.386000
+!s107 C:/Users/Administrator/Desktop/Jahangir_demo/sim/soc_tb.v|
+Z118 !s90 -reportprogress|300|-work|work|C:/Users/Administrator/Desktop/Jahangir_demo/sim/soc_tb.v|
+!s101 -O0
+R10

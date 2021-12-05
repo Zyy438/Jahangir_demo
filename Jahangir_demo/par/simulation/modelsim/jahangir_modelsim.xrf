@@ -1,4 +1,5 @@
 vendor_name = ModelSim
+source_file = 1, C:/Users/Administrator/Desktop/Jahangir_demo/rtl/rom/rom.v
 source_file = 1, C:/Users/Administrator/Desktop/Jahangir_demo/rtl/top_level/jahangir.v
 source_file = 1, C:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage4/memwb.v
 source_file = 1, C:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage4/mem.v
@@ -10,6 +11,7 @@ source_file = 1, C:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage2/id.v
 source_file = 1, C:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage1/pc.v
 source_file = 1, C:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage1/ifid.v
 source_file = 1, C:/Users/Administrator/Desktop/Jahangir_demo/par/db/jahangir.cbx.xml
+source_file = 1, rom.data
 design_name = jahangir
 instance = comp, \out_rom_address[0]~output , out_rom_address[0]~output, jahangir, 1
 instance = comp, \out_rom_address[1]~output , out_rom_address[1]~output, jahangir, 1

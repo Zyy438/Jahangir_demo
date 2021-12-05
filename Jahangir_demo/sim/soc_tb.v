@@ -1,0 +1,24 @@
+`timescale 1ns/1ps
+module soc_tb();
+reg        clk50;
+reg        rst_n;
+
+//define the time signal
+initial begin
+  clk50 <= 1'b0;
+  forever #10 clk50 <= ~clk50;
+end
+//define the reset button
+initial begin
+  rst_n <= 1'b0;
+  #50
+  rst_n <= 1'b1; 
+  #1000
+  $stop; 
+end
+//instanciation of the soc
+soc u_soc (
+  .clk          (clk50),
+  .rst_n        (rst_n)
+);
+endmodule

@@ -75,7 +75,7 @@ always @(*)begin
     else if((in_rd_enable2==1'b1)&&(in_wr_enable==1'b1)&&(in_rd_address2==in_wr_address))begin
         out_rd_data2 <= in_wr_data;
     end
-    else if(in_rd_enable1==1'b1)begin
+    else if(in_rd_enable2==1'b1)begin
         out_rd_data2 <= regs[in_rd_address2];
     end
     else begin

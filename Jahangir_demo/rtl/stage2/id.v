@@ -135,7 +135,7 @@ always @(*)begin
         out_reg2_data <= 32'h0000_0000;
     end
     //if it is enabled then we assign this output value as the data from the correspoding register
-    else if(out_reg1_enable ==1'b1)begin
+    else if(out_reg2_enable ==1'b1)begin
         out_reg2_data <= in_reg2_data;
     end
     //if it is not enabled then we assign this output value as immidiate value

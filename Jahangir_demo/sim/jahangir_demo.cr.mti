@@ -1,0 +1,92 @@
+C:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage1/pc.v {1 {vlog -work work C:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage1/pc.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module pc
+
+Top level modules:
+	pc
+
+} {} {}} C:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage2/idex.v {1 {vlog -work work C:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage2/idex.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module idex
+
+Top level modules:
+	idex
+
+} {} {}} C:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage3/exmem.v {1 {vlog -work work C:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage3/exmem.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module exmem
+
+Top level modules:
+	exmem
+
+} {} {}} C:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage2/regfile.v {1 {vlog -work work C:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage2/regfile.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module regfile
+
+Top level modules:
+	regfile
+
+} {} {}} C:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage3/ex.v {1 {vlog -work work C:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage3/ex.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ex
+
+Top level modules:
+	ex
+
+} {} {}} C:/Users/Administrator/Desktop/Jahangir_demo/sim/soc.v {1 {vlog -work work C:/Users/Administrator/Desktop/Jahangir_demo/sim/soc.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module soc
+
+Top level modules:
+	soc
+
+} {} {}} C:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage4/mem.v {1 {vlog -work work C:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage4/mem.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mem
+
+Top level modules:
+	mem
+
+} {} {}} C:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage4/memwb.v {1 {vlog -work work C:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage4/memwb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module memwb
+
+Top level modules:
+	memwb
+
+} {} {}} C:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage1/ifid.v {1 {vlog -work work C:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage1/ifid.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ifid
+
+Top level modules:
+	ifid
+
+} {} {}} C:/Users/Administrator/Desktop/Jahangir_demo/sim/soc_tb.v {1 {vlog -work work C:/Users/Administrator/Desktop/Jahangir_demo/sim/soc_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module soc_tb
+
+Top level modules:
+	soc_tb
+
+} {} {}} C:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage2/id.v {1 {vlog -work work C:/Users/Administrator/Desktop/Jahangir_demo/rtl/stage2/id.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module id
+
+Top level modules:
+	id
+
+} {} {}} C:/Users/Administrator/Desktop/Jahangir_demo/rtl/rom/rom.v {1 {vlog -work work C:/Users/Administrator/Desktop/Jahangir_demo/rtl/rom/rom.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module rom
+
+Top level modules:
+	rom
+
+} {} {}} C:/Users/Administrator/Desktop/Jahangir_demo/rtl/top_level/jahangir.v {1 {vlog -work work C:/Users/Administrator/Desktop/Jahangir_demo/rtl/top_level/jahangir.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module jahangir
+
+Top level modules:
+	jahangir
+
+} {} {}}

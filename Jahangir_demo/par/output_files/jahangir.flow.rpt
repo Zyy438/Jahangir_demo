@@ -1,5 +1,5 @@
 Flow report for jahangir
-Sat Dec 04 23:32:03 2021
+Sun Dec 05 22:16:10 2021
 Quartus II 64-Bit Version 13.1.0 Build 162 10/23/2013 SJ Full Version
 
 
@@ -40,7 +40,7 @@ applicable agreement for further details.
 +----------------------------------------------------------------------------------+
 ; Flow Summary                                                                     ;
 +------------------------------------+---------------------------------------------+
-; Flow Status                        ; Successful - Sat Dec 04 23:32:03 2021       ;
+; Flow Status                        ; Successful - Sun Dec 05 22:16:10 2021       ;
 ; Quartus II 64-Bit Version          ; 13.1.0 Build 162 10/23/2013 SJ Full Version ;
 ; Revision Name                      ; jahangir                                    ;
 ; Top-level Entity Name              ; jahangir                                    ;
@@ -64,7 +64,7 @@ applicable agreement for further details.
 +-------------------+---------------------+
 ; Option            ; Setting             ;
 +-------------------+---------------------+
-; Start date & time ; 12/04/2021 23:31:25 ;
+; Start date & time ; 12/05/2021 22:15:30 ;
 ; Main task         ; Compilation         ;
 ; Revision Name     ; jahangir            ;
 +-------------------+---------------------+
@@ -75,7 +75,7 @@ applicable agreement for further details.
 +-------------------------------------+---------------------------------------+---------------+-------------+----------------+
 ; Assignment Name                     ; Value                                 ; Default Value ; Entity Name ; Section Id     ;
 +-------------------------------------+---------------------------------------+---------------+-------------+----------------+
-; COMPILER_SIGNATURE_ID               ; 233654129003080.163863188507004       ; --            ; --          ; --             ;
+; COMPILER_SIGNATURE_ID               ; 233654129003080.163871373008100       ; --            ; --          ; --             ;
 ; EDA_OUTPUT_DATA_FORMAT              ; Verilog Hdl                           ; --            ; --          ; eda_simulation ;
 ; EDA_SIMULATION_TOOL                 ; ModelSim-Altera (Verilog)             ; <None>        ; --          ; --             ;
 ; MAX_CORE_JUNCTION_TEMP              ; 85                                    ; --            ; --          ; --             ;
@@ -95,12 +95,12 @@ applicable agreement for further details.
 +---------------------------+--------------+-------------------------+---------------------+------------------------------------+
 ; Module Name               ; Elapsed Time ; Average Processors Used ; Peak Virtual Memory ; Total CPU Time (on all processors) ;
 +---------------------------+--------------+-------------------------+---------------------+------------------------------------+
-; Analysis & Synthesis      ; 00:00:05     ; 1.0                     ; 4668 MB             ; 00:00:02                           ;
-; Fitter                    ; 00:00:15     ; 1.0                     ; 5382 MB             ; 00:00:09                           ;
-; Assembler                 ; 00:00:03     ; 1.0                     ; 4604 MB             ; 00:00:01                           ;
-; TimeQuest Timing Analyzer ; 00:00:04     ; 1.0                     ; 4670 MB             ; 00:00:03                           ;
-; EDA Netlist Writer        ; 00:00:02     ; 1.0                     ; 4556 MB             ; 00:00:01                           ;
-; Total                     ; 00:00:29     ; --                      ; --                  ; 00:00:16                           ;
+; Analysis & Synthesis      ; 00:00:06     ; 1.0                     ; 4659 MB             ; 00:00:02                           ;
+; Fitter                    ; 00:00:14     ; 1.3                     ; 5368 MB             ; 00:00:09                           ;
+; Assembler                 ; 00:00:02     ; 1.0                     ; 4605 MB             ; 00:00:01                           ;
+; TimeQuest Timing Analyzer ; 00:00:03     ; 1.0                     ; 4673 MB             ; 00:00:02                           ;
+; EDA Netlist Writer        ; 00:00:01     ; 1.0                     ; 4556 MB             ; 00:00:01                           ;
+; Total                     ; 00:00:26     ; --                      ; --                  ; 00:00:15                           ;
 +---------------------------+--------------+-------------------------+---------------------+------------------------------------+
 
 

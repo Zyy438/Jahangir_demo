@@ -1,0 +1,9 @@
+/*
+written by Yuyang Zhou
+used for jahangir processor
+rom to store the instructure
+output the corresponding instruction according to its input address
+*/
+module rom(
+	input                    
+);
